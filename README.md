@@ -8,13 +8,13 @@
 <li>mutagen</li>
 <li>pydub</li>
 </ul>
-<p>&nbsp; &nbsp; Installation on most systems:</p>
+<p>Installation on most systems:</p>
 <ul>
 <li>
 <p>pip install pathlib mutagen pydub</p>
 </li>
 </ul>
-<p>&nbsp; &nbsp; Installation on arch-based systems:</p>
+<p>Installation on arch-based systems:</p>
 <ul>
 <li>sudo pacman -S python-pathlib python-mutagen python-pydub</li>
 </ul>
